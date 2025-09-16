@@ -1,4 +1,19 @@
+# 💫 Hi 👋, I'm Subham Nayak
+**A passionate Frontend Engineer from India**
 
+Email Me 👉 ✉️ **subham019650@gmail.com** 
+
+💼 Open to: Collaborations | Freelance Projects | Tech Discussions
+
+- 🔭 **I’m currently working on:** Aekudev Technologies
+- 🌱 **I’m currently learning:** Three.js (3D Web Development)
+- 👯 **I’m looking to collaborate on:** Frontend projects, UI/UX design systems, and web platforms
+- 🤝 **Open to help with:** Frontend development, performance optimization, and React/Tailwind projects
+- 💬 **Ask me about:** React, Next.js, Tailwind CSS, TypeScript, and modern frontend practices
+- 📫 **How to reach me:**subham019650@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning complex ideas into simple, beautiful user experiences
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nobita6890) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subham-nayak-953722259) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/subham_nay74886) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subham019650@gmail.com) 
 
